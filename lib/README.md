@@ -2,5 +2,6 @@
 
 ### Code lib Folder
 
-The lib directory contains various files with function definitions (but only function definitions - no code that actually runs).
-
+feature_extracting2.0.R: extract feature from training data
+read_test_data.R: extract feature from testing data
+topic.R: topic modeling
