@@ -15,7 +15,8 @@ Term: Fall 2016
 * topic modling: Used Topic Modeling to divide the words into 20 topics. Find the topics that each song contains.Calculate the distribution of words in each topic.
 *  define distance: I define cos distance. Then calculate the distance between the feature of test songs and feature of train songs. Pick the 10 most similar ones, add the distribution of each topic to a new distribution(may not sum to 1 not that's fine), then rank the words according to the possibilities of words.
 * write a csv file with the ranks.
-	
+
+I also tried several ways like randomforest, svm, and decide that the method I use now would best predict.
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
